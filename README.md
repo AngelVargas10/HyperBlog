@@ -13,8 +13,9 @@ Miguel Angel
 * TODOS LOS COMANDOS DE GIT 
 * FLUJO DE TRABAJO EN GITHUB 
 * EL AMOR POR LAS BUENAS PRACTICAS 
-
-
+* Creado por Angel Vargas
+* Incluye ejemplos Linux windows y mac
+* Para todos y todas 
 
 ### **ESTO ES GITHUB**
 ### **ES MUY UTIL  Y NOS SIRVE PARA MUCHAS COSAS**
